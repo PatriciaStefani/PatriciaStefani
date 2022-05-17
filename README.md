@@ -1,4 +1,4 @@
 ### Olá! Soa a Patrícia!
 
-- 🌱 Estudando programção
+- 🌱 Estudando programação
 
